@@ -1,0 +1,215 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 2200;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+header{
+    background-color: rgb(228, 208, 186);
+    width: 100%;
+    height: 50px;
+    position: fixed;
+    top:0;
+      display: flex;
+       align-items: center;
+       padding-right: 20px;
+}
+header .icon{
+background-color: white;
+  width: 43px;
+    height: 43px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 50px;
+    cursor: pointer;
+}
+header .links{
+    display: flex;
+    margin-left: auto;
+    list-style: none;
+    color: white;
+    font-size: 18px;
+}
+header .links a{
+    text-decoration: none;
+        color: white;
+}
+header i{ 
+    color:rgb(228, 208, 186) ;
+    font-size: 30px;
+}
+header p{
+    margin-left: 5px;
+    color: white;
+    font-size: 30px;
+     cursor: pointer;
+}
+.allproducts{
+    list-style: none;
+    display: flex;
+    margin-top: 80px;
+}
+ul li {
+      margin-left: 35px;
+      padding-bottom: 10px;
+}
+ul li .look{
+    height: 405px;
+    width: 230px;
+    background-size: cover;
+    border-radius: 5px;
+}
+.content{
+    font-size: 17px;
+    margin-top: 20px;
+    text-align: center;
+    line-height: 22px;
+}
+.content button{
+    margin-top: 5px;
+    width: 90px;
+    height: 30px;
+    border: 0;
+      background-color: rgb(192, 162, 124);
+     color: white;
+    cursor: pointer;
+}
+.content button:hover{
+     background-color: rgb(243, 218, 187);
+    color: rgb(0, 0, 0);
+}
+.photo1{
+    
+      background-image: url(../images/photo9..jpeg);
+}
+.photo2{
+     background-image: url(../images/photo2.jpeg);
+}
+.photo3{
+     background-image: url(../images/photo3.jpeg);
+}
+.photo4{
+      background-image: url(../images/photo4.jpeg);
+}
+.photo5{
+     background-image: url(../images/photo5.jpeg);
+}
+.photo6{
+     background-image: url(../images/photo6.jpeg);
+}
+.photo7{
+      background-image: url(../images/photo7.jpeg);
+}
+.photo8{
+     background-image: url(../images/photo8.jpeg);
+}
+.photo9{
+      background-image: url(../images/photo10.jpeg);
+    
+}
+.photo10{
+     background-image: url(../images/photo1.jpeg); 
+}
+.photo11{
+     background-image: url(../images/photo11.jpeg); 
+}
+.photo12{
+     background-image: url(../images/photo12.jpeg); 
+}
+
+.photo13{
+     background-image: url(../images/photo13.jpeg); 
+}
+.photo14{
+     background-image: url(../images/photo14.jpeg); 
+}
+.photo15{
+     background-image: url(../images/photo15.jpeg); 
+}
+.checkout{
+    width: 96%;
+   height: 55vh;
+    border: 1px solid rgb(226, 209, 190);
+    margin-left: 2%;
+    margin-top: 60px;
+    text-align: center;
+     display: flex;
+  flex-direction: column;
+    padding-top:20px;
+    padding-bottom: 15px;
+}
+.checkout h2{
+    color:rgb(190, 158, 121);
+}
+.purchses{
+    padding-top: 30px;
+    padding-left: 30px;
+    font-size: 20px;
+    margin-bottom: 20px;
+    height: 150px;
+    display: flex;
+    color:rgb(122, 106, 85);
+    line-height: 27px;
+}
+.amount{
+    display: flex;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.amount button{
+   margin-left: 50px;
+   margin-right: 10px;
+   width: 100px;
+   height: 30px;
+   border: 0;
+     background-color: rgb(212, 180, 140);
+   color: white;
+   font-size: 17px;
+   border-radius: 2px;
+   cursor: pointer;
+}
+.checkout p{
+    font-size: 20px;
+    color: rgb(168, 144, 112);
+    margin-top:auto;
+}
+
+.amount button:hover{
+  transform: scale(1.08);
+}
+.data{
+    display: flex;
+    margin-left: 50px;
+    margin-top: 10px;
+}
+.data input{
+    width: 220px;
+    height: 35px;
+    font-size: 16.5px;
+    margin-right: 10px;
+    border: 1px solid rgb(212, 180, 140);;
+}
+input::placeholder{
+    color: rgb(168, 144, 112);
+}
+.data button{
+    width: 150px;
+     background-color: rgb(212, 180, 140);
+   color: white;
+   border: 0;
+   height: 35px;
+   font-size: 17px;
+   cursor: pointer;
+   
+}
+.data button:hover{
+    transform: scale(1.05);
+}
+.money{
+margin-top: 4px;
+color: rgb(131, 120, 105);
+}
