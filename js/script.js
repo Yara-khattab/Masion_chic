@@ -23,13 +23,14 @@ button.onclick=function(){
     pay.innerHTML=" Total Price : " + total+"$" 
 }
 btt.onclick=function(){
-    alert("Purchase successful! Thank you for choosing Maison Chic!🤎")
+    alert("Purchase successful! Thank you for choosing Maison Chic! 🤎")
               button.style.display="none"
               btt.style.display="none"
             input.style.display="none"
             total=0
-            input.innerHTML=""
+            input.value=""
              pay.innerHTML=""
              div.innerHTML = ""
            
 }
+
