@@ -10,7 +10,7 @@ The project simulates an online shopping experience and focuses mainly on applyi
 
 ---
 
-## ✨ Project Overview
+##  Project Overview
 This project allows users to interact with a fashion store interface where they can:
 - Browse different outfits with their prices
 - Select items by clicking the **Buy** button
@@ -21,7 +21,7 @@ All interactions and calculations are handled using **Vanilla JavaScript** witho
 
 ---
 
-## 🧠 JavaScript Functionality
+##  JavaScript Functionality
 The project focuses on the following JavaScript features:
 - Handling button click events
 - Dynamically updating the DOM
