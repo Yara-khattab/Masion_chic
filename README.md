@@ -1,42 +1,51 @@
 # 🛍️ Maison Chic – Fashion Store Website
 
-Maison Chic is a simple fashion store website that showcases women’s outfits and simulates an online shopping experience using **HTML, CSS, and JavaScript**.
-
-The project focuses on JavaScript interactions such as adding selected items to an invoice and calculating the total price.
+Maison Chic is a simple fashion store website developed as a **JavaScript training task for SEF Academy**.  
+The project simulates an online shopping experience and focuses mainly on applying **JavaScript concepts** in a practical way.
 
 ---
 
 ## 🏠 Home Page Preview
+> Add a screenshot of the home page here
+
 ![Home Page](home.jpg)
 
 ---
 
-## ✨ Project Idea
-- Display a collection of fashion outfits with prices
-- Users can click **Buy** to add items to the invoice
-- Selected items appear in a billing section
-- A button calculates the **Total Price**
-- Simple and interactive shopping experience
+## ✨ Project Overview
+This project allows users to interact with a fashion store interface where they can:
+- Browse different outfits with their prices
+- Select items by clicking the **Buy** button
+- Add selected items dynamically to an invoice section
+- Calculate the **total price** of all selected items using JavaScript
+
+All interactions and calculations are handled using **Vanilla JavaScript** without any external libraries.
+
+---
+
+## 🧠 JavaScript Functionality
+The project focuses on the following JavaScript features:
+- Handling button click events
+- Dynamically updating the DOM
+- Storing selected items in arrays
+- Calculating total prices programmatically
+- Displaying selected products in a billing/invoice section
 
 ---
 
 ## 🧩 Features
-- Clean and elegant UI design
-- Dynamic invoice using JavaScript
-- Automatic total price calculation
-- Easy-to-use interface
-- Practical use of JavaScript concepts:
-  - DOM Manipulation
-  - Event Handling
-  - Arrays
-  - Functions
+- Interactive product selection
+- Dynamic invoice generation
+- Total price calculation
+- Clean and simple user interface
+- Beginner-friendly JavaScript logic
 
 ---
 
 ## 🛠️ Technologies Used
 - HTML5
 - CSS3
-- JavaScript (Vanilla JS)
+- JavaScript
 
 ---
 
@@ -45,22 +54,23 @@ The project focuses on JavaScript interactions such as adding selected items to 
 
 ---
 
-## 🎯 Project Purpose
-- Practice JavaScript in a real scenario
-- Understand DOM interaction
-- Apply invoice / cart logic
-- Combine UI design with programming logic
+## 🎯 Purpose of the Project
+- JavaScript practice task for **SEF Academy**
+- Strengthening DOM manipulation skills
+- Applying event handling and arrays
+- Simulating real-life shopping cart logic
 
 ---
 
 ## 🚀 Future Improvements
-- Remove items from the invoice
+- Ability to remove items from the invoice
 - Save invoice data using Local Storage
-- Add a checkout page
-- Improve UI animations
+- Add checkout validation
+- Improve UI and user experience
 
 ---
 
 ## 👩‍💻 Author
 **Yara Khattab**  
-Faculty of Computers & Artificial Intelligence – Student
+Faculty of Computers & Artificial Intelligence – Student  
+SEF Academy Trainee
