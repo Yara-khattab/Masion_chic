@@ -6,8 +6,6 @@ The project simulates an online shopping experience and focuses mainly on applyi
 ---
 
 ## 🏠 Home Page Preview
-> Add a screenshot of the home page here
-
 ![Home Page](home.jpg)
 
 ---
